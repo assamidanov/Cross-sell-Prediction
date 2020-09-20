@@ -2,7 +2,7 @@
 
 
 
-In this competition I predicted the probability scores for different customers as to how likely they are interested in Vehicle Loan.
+In this competition I predicted the probability scores for different customers as to how likely they are interested in Vehicle Insurance.
 
 problem - https://datahack.analyticsvidhya.com/contest/janatahack-cross-sell-prediction
 
