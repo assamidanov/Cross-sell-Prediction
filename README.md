@@ -10,6 +10,6 @@ LB - https://datahack.analyticsvidhya.com/contest/janatahack-cross-sell-predicti
 
 Public Rank - 22
 
-Private Rank -
+Private Rank - 21
 
 Blending = 0.5 CatBoost + 0.125 LigthGbm + 0.375 XGBoost
